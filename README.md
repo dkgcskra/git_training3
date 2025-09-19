@@ -1,3 +1,3 @@
-# git_training3
-to show a conflict hopefully it will work 
-This is just a Test - to show a conflict hopefully it will work 
+1. Hello world
+2. This is an experiment
+3. Goodbye
